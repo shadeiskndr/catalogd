@@ -14,9 +14,7 @@ export const Actions = async () => {
             <SignInButton>
                 <Button
                     size="sm"
-                    variant="ghost"
-                    className="text-muted-foreground hover:text-primary"
-                    asChild
+                    variant="primary"
                 >
                     Sign In
                 </Button>
